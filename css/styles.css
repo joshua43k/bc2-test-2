@@ -1,0 +1,38 @@
+
+.nav-con {
+    background-color: #FFB733;
+}
+
+.nav {
+  background-color: #FFB733;
+}
+
+.nav a {
+    color: #000;
+}
+
+.act {
+  background-color: #fff;
+}
+
+.jumbotron {
+  background-color: rgba(96, 168, 255, .8);
+  text-align: center;
+}
+
+.well{
+  background-color: rgba(96, 168, 255, .3);
+}
+
+.btn{
+  background-color: #FFB733;
+}
+
+.btn-div .btn{
+  margin: 0px 0px 10px 25%;
+}
+
+.lorem div {
+  border: solid 1px #000;
+  background-color: #FFB733;
+}
