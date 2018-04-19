@@ -3,11 +3,11 @@
     background-color: #FFB733;
 }
 
-.nav {
+.nav-mine {
   background-color: #FFB733;
 }
 
-.nav a {
+.nav-mine a {
     color: #000;
 }
 
@@ -15,16 +15,16 @@
   background-color: #fff;
 }
 
-.jumbotron {
+.jum {
   background-color: rgba(96, 168, 255, .8);
   text-align: center;
 }
 
-.well{
+.well-mine{
   background-color: rgba(96, 168, 255, .3);
 }
 
-.btn{
+.but{
   background-color: #FFB733;
 }
 
